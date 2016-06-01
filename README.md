@@ -63,4 +63,4 @@ user	0m0.008s
 sys	0m0.048s
 ```
 
-# Briliant!
+# Brilliant!
